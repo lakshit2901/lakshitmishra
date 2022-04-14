@@ -11,3 +11,5 @@ Hy guys
 
 खेर ज्यादा bakchodi नही करते है . क्युकी बोर्ड का समय 
 समय है दोस्तो!
+## संपर्क
+   <a href="https://t.me/kdrnat"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
