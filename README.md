@@ -13,4 +13,5 @@ Hy guys
  है दोस्तो!
 ## संपर्क
    
-   <a href="https://t.me/kdrnat"><img src="https://img.shields.io/badge/संपर्क%20करना%3F-है-blue?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/kdrnat"><img src="https://img.shields.io/badge/संपर्क%20करना%3F-है-blue
+&style=flat-square?&logo=telegram" width=220px></a></p>
