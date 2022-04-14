@@ -9,8 +9,8 @@ Hy guys
 
 
 
-खेर ज्यादा bakchodi नही करते है . क्युकी बोर्ड का समय 
-समय है दोस्तो!
+खेर ज्यादा bakchodi नही करते है,क्युकी बोर्ड का समय 
+ है दोस्तो!
 ## संपर्क
    
    <a href="https://t.me/kdrnat"><img src="https://img.shields.io/badge/संपर्क%20करना%3F-है-green?&style=flat-square?&logo=telegram" width=220px></a></p>
